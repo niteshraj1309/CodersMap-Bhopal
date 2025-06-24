@@ -1,6 +1,6 @@
 # 📍 CodersMap Bhopal – Data Analytics Project
 
-**CodersMap Bhopal** is a Python-based data analytics project focused on analyzing data related to developers in Bhopal. The project is divided into four main sections to provide insights and recommendations :
+**CodersMap Bhopal** is a Python-based data analytics project focused on analyzing data related to coders in Bhopal. The project is divided into four main sections to provide insights and recommendations :
 ---
 
 ## 🔍 Project Overview
